@@ -1,3 +1,4 @@
+import React from 'react';
 import './BaseComponent.scss';
 
 
@@ -18,5 +19,4 @@ const BaseComponent:React.FC<
         </div>
     );
 }
-
 export default BaseComponent;
